@@ -1,0 +1,5 @@
+[WDM] - xdist worker is: gw1
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 107.0.5304
+[WDM] - Get LATEST chromedriver version for 107.0.5304 google-chrome
+[WDM] - Driver [/home/vlad/.wdm/gw1/drivers/chromedriver/linux64/107.0.5304.62/chromedriver] found in cache

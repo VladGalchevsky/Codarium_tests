@@ -1,0 +1,5 @@
+INFO     WDM:logger.py:16 xdist worker is: gw2
+INFO     WDM:logger.py:16 ====== WebDriver manager ======
+INFO     WDM:logger.py:16 Current google-chrome version is 107.0.5304
+INFO     WDM:logger.py:16 Get LATEST chromedriver version for 107.0.5304 google-chrome
+INFO     WDM:logger.py:16 Driver [/home/vlad/.wdm/gw2/drivers/chromedriver/linux64/107.0.5304.62/chromedriver] found in cache

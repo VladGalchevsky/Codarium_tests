@@ -1,0 +1,6 @@
+[WDM] - xdist worker is: gw3
+[WDM] - ====== WebDriver manager ======
+[WDM] - Current google-chrome version is 107.0.5304
+[WDM] - Get LATEST chromedriver version for 107.0.5304 google-chrome
+[WDM] - About to download new driver from https://chromedriver.storage.googleapis.com/107.0.5304.62/chromedriver_linux64.zip
+[WDM] - Driver has been saved in cache [/home/vlad/.wdm/gw3/drivers/chromedriver/linux64/107.0.5304.62]
